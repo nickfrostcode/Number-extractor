@@ -1,0 +1,14 @@
+node_modules/
+
+# Environment (do not commit secrets / local paths)
+.env
+
+# Persisted browser sessions (contains auth cookies/tokens)
+/session/
+
+# Extracted/PII-ish outputs (keep locally)
+/data/numbers.txt
+/data/numbers.csv
+/data/results.json
+/data/source_comments.txt
+

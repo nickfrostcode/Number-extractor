@@ -1,0 +1,5 @@
+create these files in this folder
+
+numbers.txt - auto generated
+numbers.csv - auto generated
+source_comments.txt - create this and paste your unformatted text here for processing to extract the numbers there
